@@ -1,4 +1,4 @@
-# 【自己走完全程】ChatGPT 充值指南：国内怎么给自有账号开通 Plus（2026 实测版）
+# 【亲测可用】ChatGPT 充值指南：国内怎么给自有账号开通 Plus（2026 实测版）
 
 ![更新](https://img.shields.io/badge/更新-2026年10月-success) ![类型](https://img.shields.io/badge/类型-使用记录-blue) ![许可](https://img.shields.io/badge/许可-MIT-green)
 
