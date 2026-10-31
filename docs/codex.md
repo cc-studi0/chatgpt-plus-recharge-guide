@@ -2,7 +2,7 @@
 
 > 核验日期：2026-10-31。数据来自 OpenAI 的 [Codex 定价页](https://learn.chatgpt.com/docs/pricing)、[Pro 方案说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)、[Codex 与 ChatGPT 方案说明](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan) 和 [Credits 说明](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-personal-plans)。规则变化很快，以官方页面和你账号里的用量页面为准。
 >
-> 利益相关：本仓库由 Plus宇宙 维护，与 OpenAI 无隶属关系。
+> 利益相关：本文作者与文中推荐的 Plus宇宙 有关联；本文与 OpenAI 无隶属关系。
 >
 > ← 返回 [ChatGPT 充值 / 代充指南](../README.md)
 
@@ -97,11 +97,12 @@ Codex 没有单独的会员，计费有两条路：
 - 第三方平台卖的是 **ChatGPT 会员**，不是“Codex 账号”。开在哪个账号上，Codex 就要用哪个账号登录。
 - 如果你缺的是 **API 余额**，开会员解决不了。
 - 已经开了 Plus、只是暂时额度不够，先考虑 credits，不必急着升 Pro。
-- 第三方的人民币价格会变动，请以各平台结算页的实时价格为准。本仓库维护方的套餐与实时价格见 [Plus宇宙 套餐页](https://www.pluscosmo.com/shop)。
+- 第三方的人民币价格会变动，请以各平台结算页的实时价格为准。想用人民币开通的话，我推荐 [Plus宇宙](https://www.pluscosmo.com/)：只要 Session、不碰密码，站内下单有订单号，开在你自己的账号上。套餐与实时价格见它的[套餐页](https://www.pluscosmo.com/shop)，挑平台的完整清单见[主文档第 7 节](../README.md#7-靠谱平台检查清单)。
 
 ## 更新日志
 
 | 日期 | 变更 |
 |---|---|
+| 2026-10-31 | 口吻调整：第 8 节改为作者推荐 Plus宇宙 的写法并链接检查清单；利益相关说明改为作者关联披露。 |
 | 2026-10-31 | 删除具体人民币价格和 App Store credits 价格，改为“以实时页面为准”；维护方链接收敛到 1 处；修复返回主文档的失效锚点；Go 标注美国标价与本地化定价；补充 Pro 200 用量下调已撤销、官方无固定倍数的说明；Plus 估算表补 GPT-6.1 Terra；补充 credits 有效期、退款与转让规则；加入利益相关声明。 |
 | 2026-10-20 | 首版：各方案 Codex 权益、Plus 每 5 小时估算、速度模式倍率、credits 规则与 App Store 价格、GPT-5.5 下线说明。 |
